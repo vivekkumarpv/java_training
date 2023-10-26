@@ -1,0 +1,53 @@
+.container {
+    border: 1px solid black;
+    margin: 0 100px 10px 100px;
+    min-height: 600px;
+}
+
+.logo {
+    width: 240px;
+    height: 150px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+a {
+    font-family: 'monotype corsiva';
+    font-size: 18pt;
+}
+
+.contact-heading {
+    font-size: 20pt;
+    color: green;
+}
+
+.about-heading {
+    font-size: 20pt;
+    color: gray;
+}
+
+.image{
+    border-style:solid;
+    border-color: blue;
+    border-width: 1px;
+    height:160px;
+    width:210px;
+    border-radius: 8px;
+}
+.images{
+    align-content: center;
+    display:inline-block;
+    padding-left: 60px;
+}
+.footer {
+    padding: 20px;
+    color: white;
+    background-color: navy;
+    text-align: center;
+    margin-top: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 79%;
+}
